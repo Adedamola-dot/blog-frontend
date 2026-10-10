@@ -85,12 +85,6 @@ const LoginPage = () => {
                         Create one
                     </Link>
                 </p>
-
-                <div className="mt-6 pt-6 border-t border-gray-100 text-xs text-gray-500">
-                    <p className="mb-1 font-medium">Test accounts (from seed):</p>
-                    <p>Admin: admin@example.com / Admin123!</p>
-                    <p>User: john@example.com / SecurePass123!</p>
-                </div>
             </div>
         </div>
     );
